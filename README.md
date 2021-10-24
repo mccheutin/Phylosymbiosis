@@ -1,5 +1,5 @@
-# megafauna
-Keys to study the coral reef fish microbiomes
+# Megafauna
+Keys to study the coral reef fish bacteriome structuration
 
-More than 600 fishes have been sampled in different corals reefs in Indian Ocean and Carribean Sea. This repository is composed of all R scripts and protocols needed from sampling part until data process for the NGS microbial sequences.
-This provide a strong methodology both for molecular biology managment, bioinformatics and ecological statistics. 
+About 400 fishes have been sampled in different corals reefs in Indian Ocean and Carribean Sea. This repository is composed of all R scripts needed for the data process of the NGS microbial sequences. We used 515FY - 926R universal primers (Parada et al., 2016) for the PCR amplification.
+
